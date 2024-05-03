@@ -1,0 +1,1 @@
+This contains Dataset and Python code for Automated Laon Approval Prediction using Machine Learning Techniques.The Project uses Decision Tree and Naive Bayes algorithms for finding Approval.The output of this is Graph Visulaizations.
